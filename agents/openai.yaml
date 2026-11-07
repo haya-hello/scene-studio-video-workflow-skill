@@ -1,0 +1,1 @@
+interface:`n  display_name: "Scene Studio Video Workflow"`n  short_description: "Orchestrate video intake, generation, QA, and delivery"`n  default_prompt: "Use $scene-studio-video-workflow to run the full video production workflow from reference intake through verified delivery."`n`npolicy:`n  allow_implicit_invocation: true`n
